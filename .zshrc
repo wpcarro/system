@@ -260,7 +260,7 @@ export MOZ_USE_XINPUT2=1
 export SYSTEM_GOPATH="${HOME}/.filesystem"
 pathprepend PATH "${SYSTEM_GOPATH}/bin"
 
-# Set MYFS to my filesysemt
+# Set MYFS to my filesystem
 export MYFS="${HOME}/.local"
 
 # Set the editor

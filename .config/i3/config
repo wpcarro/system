@@ -385,4 +385,4 @@ exec $nosid whatsapp-web-desktop
 exec $nosid /opt/Pulse\ SMS/pulse-sms
 
 # Start the personal terminal on the personal workspace
-exec i3-msg "workspace personal@base; exec $nosid /usr/bin/termite"
+exec i3-msg "workspace personal@base; exec $nosid termite"
